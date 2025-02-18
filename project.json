@@ -1,1 +1,8 @@
-
+{
+  "schema-version": "1.0",
+  "base-environment": "nvcr.io/nvidia/nemo:dev",
+  "container": {
+    "image": "nvcr.io/nvidia/nemo:dev",
+    "registry": "nvcr.io"
+  }
+}
